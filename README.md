@@ -38,6 +38,8 @@ Track expenses, monitor balances, and organize transactions—all with a clean, 
 
 3. If prompted, enable Install from Unknown Sources.
 
+4. If prompted, complete scan from google play.
+
 
 ## License
 All Rights Reserved.
