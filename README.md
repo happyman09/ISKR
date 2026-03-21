@@ -10,9 +10,10 @@ A lightweight **"Fintech"** style personal finance tracker with number scramble 
 Track expenses, monitor balances, and organize transactions—all with a clean, minimal interface. Works offline. Data stored locally in your device.
 
 <div>
-  <img src="assets/Screenshot_20260321_122428.png" alt="App Screenshot 1" width="300"/>
-  <img src="assets/Screenshot_20260321_122503.png" alt="App Screenshot 2" width="300"/>
-  <img src="assets/Screenshot_20260321_122531.png" alt="App Screenshot 3" width="300"/>  
+  <img src="assets/Screenshot_20260321_124724.png" alt="App Screenshot 1" width="300"/>
+  <img src="assets/Screenshot_20260321_122428.png" alt="App Screenshot 2" width="300"/>
+  <img src="assets/Screenshot_20260321_122503.png" alt="App Screenshot 3" width="300"/>
+  <img src="assets/Screenshot_20260321_122531.png" alt="App Screenshot 4" width="300"/>  
 </div>
 
 
