@@ -1,7 +1,6 @@
 ![Downloads](https://img.shields.io/github/downloads/happyman09/iskx/total?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/happyman09/iskx?style=flat-square)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/happyman09/iskx)
-![License](https://img.shields.io/github/license/happyman09/auto-wallpaper-themer?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/happyman09/iskx)
 
 # ISKX - Ledger logger
