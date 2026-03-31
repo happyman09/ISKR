@@ -1,7 +1,7 @@
-![Downloads](https://img.shields.io/github/downloads/happyman09/iskx/total?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/happyman09/iskx?style=flat-square)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/happyman09/iskx)
-![GitHub issues](https://img.shields.io/github/issues/happyman09/iskx)
+![Downloads](https://img.shields.io/github/downloads/happyman09/ISKR/total?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/happyman09/ISKR?style=flat-square)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/happyman09/ISKR)
+![GitHub issues](https://img.shields.io/github/issues/happyman09/ISKR)
 
 # ISKR - Ledger logger
 A lightweight **"Fintech"** style personal finance tracker with number scramble animation built with Vite and packaged as an Android APK.
