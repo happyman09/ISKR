@@ -3,7 +3,7 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/happyman09/iskx)
 ![GitHub issues](https://img.shields.io/github/issues/happyman09/iskx)
 
-# ISKX - Ledger logger
+# ISKR - Ledger logger
 A lightweight **"Fintech"** style personal finance tracker with number scramble animation built with Vite and packaged as an Android APK.
 
 Track expenses, monitor balances, and organize transactions—all with a clean, minimal interface. Works offline. Data stored locally in your device.
@@ -28,10 +28,13 @@ Track expenses, monitor balances, and organize transactions—all with a clean, 
 - **Bundler:** Vite
 - **Mobile Packaging:** Capacitor for Android APK
 
+## Web App (Recommended)
+https://iskr-ledger.web.app
+
 ## 💽 Installation
 
-### APK file (Recommended)
-1. Download the latest **.apk** from [Releases](https://github.com/happyman09/iskx/releases).
+### APK file (Not frequently maintained)
+1. Download the latest **.apk** from [Releases](https://github.com/happyman09/iskr/releases).
 
 2. Install it.
 
