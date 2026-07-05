@@ -31,6 +31,8 @@ Track expenses, monitor balances, and organize transactions—all with a clean, 
 ## Web App (Recommended)
 https://iskr-ledger.web.app
 
+# Add the website as an app in your Phone.
+
 ## 💽 Installation
 
 ### APK file (Not frequently maintained)
